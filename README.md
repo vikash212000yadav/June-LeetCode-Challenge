@@ -10,3 +10,5 @@
 	- [Two City Schedule Algorithm](https://massivealgorithms.blogspot.com/2019/06/leetcode-1029-two-city-scheduling.html)
 4. June 4 
 	- [Reverse String](https://www.educative.io/edpresso/how-to-reverse-a-string-in-cpp)
+5. June 5
+	- [Random Pick With Weight](https://www.geeksforgeeks.org/upper_bound-in-cpp/)
