@@ -12,3 +12,7 @@
 	- [Reverse String](https://www.educative.io/edpresso/how-to-reverse-a-string-in-cpp)
 5. June 5
 	- [Random Pick With Weight](https://www.geeksforgeeks.org/upper_bound-in-cpp/)
+6. June 6
+	- ...
+7. June 7
+	- [Coin Change 2](https://www.geeksforgeeks.org/coin-change-dp-7/)
