@@ -16,3 +16,5 @@
 	- ...
 7. June 7
 	- [Coin Change 2](https://www.geeksforgeeks.org/coin-change-dp-7/)
+8. June 8
+	- [Power of 2](https://www.programiz.com/cpp-programming/examples/power-number)
