@@ -18,3 +18,5 @@
 	- [Coin Change 2](https://www.geeksforgeeks.org/coin-change-dp-7/)
 8. June 8
 	- [Power of 2](https://www.programiz.com/cpp-programming/examples/power-number)
+9. June 9
+	- [Is Subsequence](https://www.geeksforgeeks.org/given-two-strings-find-first-string-subsequence-second/)
