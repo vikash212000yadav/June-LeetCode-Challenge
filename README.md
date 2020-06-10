@@ -20,3 +20,5 @@
 	- [Power of 2](https://www.programiz.com/cpp-programming/examples/power-number)
 9. June 9
 	- [Is Subsequence](https://www.geeksforgeeks.org/given-two-strings-find-first-string-subsequence-second/)
+10. June 10
+	- [Search Insert Position](https://www.programcreek.com/2013/01/leetcode-search-insert-position/)
