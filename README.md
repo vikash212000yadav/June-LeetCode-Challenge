@@ -24,3 +24,5 @@
 	- [Search Insert Position](https://www.programcreek.com/2013/01/leetcode-search-insert-position/)
 11. June 11
 	- [Sort Colors](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)
+12. June 12
+	- [Insert Delete GetRandom O(1)](https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time/)
