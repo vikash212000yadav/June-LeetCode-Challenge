@@ -26,3 +26,9 @@
 	- [Sort Colors](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)
 12. June 12
 	- [Insert Delete GetRandom O(1)](https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time/)
+13. June 13
+	- ...
+14. June 14
+	- ...
+15. June 15
+	- [Search In A Binary Search Tree](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/)
