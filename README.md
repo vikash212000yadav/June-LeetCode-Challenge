@@ -32,3 +32,5 @@
 	- ...
 15. June 15
 	- [Search In A Binary Search Tree](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/)
+16. June 16
+	- [Validate IP Address](https://www.geeksforgeeks.org/program-to-validate-an-ip-address/)
