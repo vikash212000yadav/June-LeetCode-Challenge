@@ -34,3 +34,5 @@
 	- [Search In A Binary Search Tree](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/)
 16. June 16
 	- [Validate IP Address](https://www.geeksforgeeks.org/program-to-validate-an-ip-address/)
+17. June 17
+	- [Surrounded Regions](https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x/)
