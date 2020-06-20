@@ -40,4 +40,5 @@
 	- ...
 19. June 19
 	- [Longest Duplicate Substring](https://www.geeksforgeeks.org/longest-repeating-and-non-overlapping-substring/)
-
+20. June 20
+	- [Permutation Sequence](https://www.tutorialspoint.com/permutation-sequence-in-cplusplus)
