@@ -36,3 +36,8 @@
 	- [Validate IP Address](https://www.geeksforgeeks.org/program-to-validate-an-ip-address/)
 17. June 17
 	- [Surrounded Regions](https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x/)
+18. June 18
+	- ...
+19. June 19
+	- [Longest Duplicate Substring](https://www.geeksforgeeks.org/longest-repeating-and-non-overlapping-substring/)
+
