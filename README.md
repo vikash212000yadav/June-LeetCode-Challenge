@@ -42,3 +42,5 @@
 	- [Longest Duplicate Substring](https://www.geeksforgeeks.org/longest-repeating-and-non-overlapping-substring/)
 20. June 20
 	- [Permutation Sequence](https://www.tutorialspoint.com/permutation-sequence-in-cplusplus)
+21. June 21
+	- [Dungeon Game](https://www.youtube.com/watch?v=LbC0ejgACkE)
