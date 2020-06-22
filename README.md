@@ -44,3 +44,5 @@
 	- [Permutation Sequence](https://www.tutorialspoint.com/permutation-sequence-in-cplusplus)
 21. June 21
 	- [Dungeon Game](https://www.youtube.com/watch?v=LbC0ejgACkE)
+22. June 22
+	- [Single Number II](https://www.geeksforgeeks.org/find-the-element-that-appears-once/)
