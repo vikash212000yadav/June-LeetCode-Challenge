@@ -46,3 +46,5 @@
 	- [Dungeon Game](https://www.youtube.com/watch?v=LbC0ejgACkE)
 22. June 22
 	- [Single Number II](https://www.geeksforgeeks.org/find-the-element-that-appears-once/)
+23. June 23
+	- [Count Complete Tree Nodes](https://www.geeksforgeeks.org/count-full-nodes-binary-tree-iterative-recursive/)
