@@ -48,3 +48,5 @@
 	- [Single Number II](https://www.geeksforgeeks.org/find-the-element-that-appears-once/)
 23. June 23
 	- [Count Complete Tree Nodes](https://www.geeksforgeeks.org/count-full-nodes-binary-tree-iterative-recursive/)
+24. June 24
+	- [Unique Binary Search Trees](https://www.geeksforgeeks.org/construct-all-possible-bsts-for-keys-1-to-n/)
