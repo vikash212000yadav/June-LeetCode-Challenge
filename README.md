@@ -50,3 +50,5 @@
 	- [Count Complete Tree Nodes](https://www.geeksforgeeks.org/count-full-nodes-binary-tree-iterative-recursive/)
 24. June 24
 	- [Unique Binary Search Trees](https://www.geeksforgeeks.org/construct-all-possible-bsts-for-keys-1-to-n/)
+25. June 25
+	- [Find The Duplicate Number](https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/)
