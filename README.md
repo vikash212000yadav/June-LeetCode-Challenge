@@ -52,3 +52,7 @@
 	- [Unique Binary Search Trees](https://www.geeksforgeeks.org/construct-all-possible-bsts-for-keys-1-to-n/)
 25. June 25
 	- [Find The Duplicate Number](https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/)
+26. June 26
+	- [Sum Root To Leaf Numbers](https://www.geeksforgeeks.org/sum-numbers-formed-root-leaf-paths/)
+27. June 27
+	- [Perfect Squares](https://www.geeksforgeeks.org/minimum-number-of-squares-whose-sum-equals-to-given-number-n/)
