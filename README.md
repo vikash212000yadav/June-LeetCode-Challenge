@@ -56,3 +56,7 @@
 	- [Sum Root To Leaf Numbers](https://www.geeksforgeeks.org/sum-numbers-formed-root-leaf-paths/)
 27. June 27
 	- [Perfect Squares](https://www.geeksforgeeks.org/minimum-number-of-squares-whose-sum-equals-to-given-number-n/)
+28. June 28
+	- ...
+29. June 29
+	- [Unique Paths](https://www.geeksforgeeks.org/unique-paths-in-a-grid-with-obstacles/)
